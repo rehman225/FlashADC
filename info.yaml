@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      Flash ADC
+  title:        ""      FlashADC
   author:       ""      Pathan Rehman Ahmed Khan
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
