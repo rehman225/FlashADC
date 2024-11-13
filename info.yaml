@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      "FlashADC"
+  title:        "3-bit FlashADC"   
   author:       ""      #
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
